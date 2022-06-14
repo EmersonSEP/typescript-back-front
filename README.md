@@ -1,0 +1,1 @@
+Iniciando projeto em back e front com typescript.
